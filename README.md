@@ -98,3 +98,8 @@ git commit -m "Add feature-name"
 Push branch ke repositori Anda:
 
 git push origin feature-name
+
+
+
+tampilan home page
+<img width="501" alt="image" src="https://github.com/user-attachments/assets/3d297694-07c2-4af1-a43b-f1b129df94f6">
