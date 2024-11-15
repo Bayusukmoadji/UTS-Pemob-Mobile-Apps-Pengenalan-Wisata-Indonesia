@@ -103,3 +103,18 @@ git push origin feature-name
 
 tampilan home page
 <img width="501" alt="image" src="https://github.com/user-attachments/assets/3d297694-07c2-4af1-a43b-f1b129df94f6">
+
+
+tampilan about
+<img width="499" alt="image" src="https://github.com/user-attachments/assets/bacf4131-94be-462b-a7f8-dd91f4a5f9dc">
+
+
+tampilan maps
+<img width="501" alt="image" src="https://github.com/user-attachments/assets/d6e354a1-da57-4267-96ea-8683d8e373b9">
+
+
+tampilan collection
+<img width="501" alt="image" src="https://github.com/user-attachments/assets/7bc4bba8-af78-4a5a-848e-ef6601899986">
+
+
+
